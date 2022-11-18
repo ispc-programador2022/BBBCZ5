@@ -23,7 +23,7 @@
 - Poder visualizar y comparar la población mundial por Pais y Continente.
 
 
-## tenologia utilizada:
+## Tecnologias utilizadas:
 
 - Scrapping : Beautiful Soup 
 - Django: para crear un backend sencillo.

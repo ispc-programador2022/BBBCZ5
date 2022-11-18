@@ -8,9 +8,9 @@
 - Romina Cattaneo
 - Debora Abigail Zurita Rojo
 
-## App para comparar la población de los diferentes paises a nivel mundial.
+## App para comparar la población de los diferentes paises a nivel mundial. (colocar la foto cuando esté deployado)
 
-<img src="https://i.ibb.co/XpwtM47/image.png" width=30% height=30%> 
+<img src="" width=30% height=30%> 
 
 ## La App se encuentra deployada en: 
 [App](https://)

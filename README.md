@@ -11,7 +11,7 @@
 
 ## App para comparar la población de los diferentes paises a nivel mundial. (colocar la foto cuando esté deployado)
 
-<img src="blog/img/Screenshot (24).png" width=30% height=30%> 
+<img src="app_foto.png" width=30% height=30%> 
 
 ## La App se encuentra deployada en: 
 [App](https://)

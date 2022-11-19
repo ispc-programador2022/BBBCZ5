@@ -9,7 +9,7 @@
 - [Debora Abigail Zurita Rojo](https:github.com/AbiZur)
 
 
-## App para comparar la población de los diferentes paises a nivel mundial. (colocar la foto cuando esté deployado)
+## App para comparar la población de los diferentes paises a nivel mundial.
 
 <img src="app_foto.png" width=50% height=50%> 
 

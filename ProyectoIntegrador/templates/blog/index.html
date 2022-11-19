@@ -1,0 +1,14 @@
+{% extends 'blog/base.html' %}
+
+{% load static %}
+
+{% block contenido %}
+
+<center>
+<form  action="{%url 'importWorldPopulationData'%}" method="post">
+    {% csrf_token %}
+        <input calss=from-control type="search" name="buscar"  placeholder="Buscar por Pais">
+        <input class="btn btn-primary text-uppercase"  type="submit" value = "Buscar">
+</form>
+</center>
+{% endblock %}

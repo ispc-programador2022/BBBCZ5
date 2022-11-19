@@ -2,11 +2,12 @@
 ## GRUPO BBBCZ5
 ## Integrantes
 
-- Juan Cruz Boriani
-- Paula Badin
-- Federico Bellon
-- Romina Cattaneo
-- Debora Abigail Zurita Rojo
+- [Juan Cruz Boriani](https://github.com/borianijc)
+- [Paula Badin](https://github.com/paulabadin)
+- [Federico Bellon](https://https://github.com/fedevricobellon)
+- [Romina Cattaneo](https://https://github.com/romica44)
+- [Debora Abigail Zurita Rojo](https://https://github.com/AbiZur)
+
 
 ## App para comparar la población de los diferentes paises a nivel mundial. (colocar la foto cuando esté deployado)
 
